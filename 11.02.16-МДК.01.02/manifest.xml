@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <course>
+    <title>ФГОС 11.02.16 МДК.01.02 МОНТАЖ, ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ И РЕМОНТ ЭЛЕКТРОННЫХ ПРИБОРОВ И УСТРОЙСТВ</title>
+    <description/>
+    <language>ru</language>
+    <fgos_title>ФГОС СПО 11.02.16</fgos_title>
+    <fgos_text>МОНТАЖ, ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ И РЕМОНТ ЭЛЕКТРОННЫХ ПРИБОРОВ И УСТРОЙСТВ</fgos_text>
+    <mdk_title>МДК 01.02</mdk_title>
+    <mdk_text>ТЕХНОЛОГИЯ НАСТРОЙКИ И РЕГУЛИРОВКИ ЭЛЕКТРОННЫХ ПРИБОРОВ И УСТРОЙСТВ</mdk_text>
+  </course>
+</data>
